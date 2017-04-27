@@ -5,22 +5,16 @@ An implementation of Q-Learning in the training of a driving agent as a Markov d
 
 Reinforcement Learning Project
 
-## Install
+## Software and Library Requirements
+* Python 2.7.11
+* Jupyter Notebook 4.2.2
+* Numpy 1.11.2
+* scikit-image 0.12.3
+* matplotlib 1.5.2
+* [pygame library](https://www.pygame.org/wiki/GettingStarted)
 
-This project requires Python 2.7 with the pygame library installed:
+## Getting up and running
 
-https://www.pygame.org/wiki/GettingStarted
+Make sure you are in the top-level project directory `smart_cab/`. Then run:
 
-## Code
-
-Open `smart_cab/agent.py` and implement `LearningAgent`. Follow `TODO`s for further instructions.
-
-## Run
-
-Make sure you are in the top-level project directory `smart_cab/` (that contains this README). Then run:
-
-```python smart_cab/agent.py```
-
-OR:
-
-```python -m smart_cab.agent```
+> python smart_cab/agent.py
