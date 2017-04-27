@@ -1,4 +1,4 @@
-# Training a Smartcab How to Drive
+# Training a Smartcab How to Drive with Reinforcement Learning
 
 This repository contains an implementation of Q-Learning in the training of a smartcab in a Markov decision process, and outlines the incremental steps taken to build an efficient AI program for the agent.  The environment in which the smartcab operates is built in the `pygame` library.  
 
